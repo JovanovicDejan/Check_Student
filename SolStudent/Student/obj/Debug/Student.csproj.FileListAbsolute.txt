@@ -1,0 +1,11 @@
+C:\Users\dejan\Desktop\CShark\Check Student\SolStudent\Student\bin\Debug\Student.exe.config
+C:\Users\dejan\Desktop\CShark\Check Student\SolStudent\Student\bin\Debug\Student.exe
+C:\Users\dejan\Desktop\CShark\Check Student\SolStudent\Student\bin\Debug\Student.pdb
+C:\Users\dejan\Desktop\CShark\Check Student\SolStudent\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\dejan\Desktop\CShark\Check Student\SolStudent\Student\obj\Debug\Student.csproj.SuggestedBindingRedirects.cache
+C:\Users\dejan\Desktop\CShark\Check Student\SolStudent\Student\obj\Debug\Student.Form1.resources
+C:\Users\dejan\Desktop\CShark\Check Student\SolStudent\Student\obj\Debug\Student.Properties.Resources.resources
+C:\Users\dejan\Desktop\CShark\Check Student\SolStudent\Student\obj\Debug\Student.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\CShark\Check Student\SolStudent\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\CShark\Check Student\SolStudent\Student\obj\Debug\Student.exe
+C:\Users\dejan\Desktop\CShark\Check Student\SolStudent\Student\obj\Debug\Student.pdb
